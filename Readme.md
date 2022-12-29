@@ -1,1 +1,1 @@
-This is a readme file
+This folder consists of Python scripts pushed to a repo named Python in Git, the Python repository has 2 branches : main and Feature branch. the changes made in main branch is merged in Feature branch and is shown in this exercise.
