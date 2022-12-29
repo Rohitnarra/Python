@@ -1,0 +1,9 @@
+a = 15
+b = 4
+print(f"addition: {a} + {b} = {a+b}")
+print(f"subtraction: {a} - {b} = {a-b}")
+print(f"multiplication: {a} * {b} = {a*b}")
+print(f"division:m {a} / {b} = {a/b}")
+print(f"floor division: {a} // {b} = {a//b}")
+print(f"modulus: {a} % {b} = {a%b}")
+print(f"exponential: {a} ** {b} = {a**b}")
